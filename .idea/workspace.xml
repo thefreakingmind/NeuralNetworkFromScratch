@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71b12fe5-c4c8-4a3a-998d-648cf949444f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jGL4SmcQLtAOxIoa4mBVdNR5tl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71b12fe5-c4c8-4a3a-998d-648cf949444f" name="Default Changelist" comment="" />
+      <created>1603425290784</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603425290784</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="212" key="#Project_Structure" timestamp="1603425400931">
+      <screen x="0" y="23" width="1792" height="1047" />
+    </state>
+    <state x="496" y="212" key="#Project_Structure/0.23.1792.1047@0.23.1792.1047" timestamp="1603425400931" />
+    <state x="709" y="269" key="#com.intellij.ide.util.MemberChooser" timestamp="1603434707054">
+      <screen x="0" y="23" width="1792" height="1047" />
+    </state>
+    <state x="709" y="269" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1047@0.23.1792.1047" timestamp="1603434707054" />
+    <state x="397" y="185" key="SettingsEditor" timestamp="1603426035113">
+      <screen x="0" y="23" width="1792" height="1047" />
+    </state>
+    <state x="397" y="185" key="SettingsEditor/0.23.1792.1047@0.23.1792.1047" timestamp="1603426035113" />
+  </component>
+</project>
